@@ -22,9 +22,8 @@ To continuously improve your experience, while using our Service, we may require
 The App integrates third-party services that may use their own tracking technologies to collect information that can identify your device or usage behavior. Please note that the information collection practices of such third parties are governed by their respective privacy policies, and we have no control over their specific practices.
 
 Third-party services used by the App and links to their privacy policies:
-
-- Google Analytics for Firebase: [https://firebase.google.com/support/privacy/]
-- Firebase Crashlytics: [https://firebase.google.com/terms/crashlytics]
+- [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 Please note: We recommend reviewing the privacy policies of the above third parties to understand their specific data handling practices. We assume no responsibility for the data collection and usage practices of third parties.
 

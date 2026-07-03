@@ -30,8 +30,8 @@ You are fully responsible for any content you distribute, share, or transmit aft
 
 ## Third-Party Services
 The App integrates third-party services, including but not limited to:
-- Google Analytics for Firebase: [https://firebase.google.com/support/privacy/]
-- Firebase Crashlytics: [https://firebase.google.com/terms/crashlytics]
+- [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
+- [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 Such third-party services may collect information related to your device (such as device identifiers, IP addresses, etc.) through their own SDKs. Their information collection and use are governed by their own terms and privacy policies. We assume no responsibility for the practices of third-party services. We recommend reviewing the terms and privacy policies of the relevant third parties to understand their specific practices.
 
