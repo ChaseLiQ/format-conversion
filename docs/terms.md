@@ -1,6 +1,6 @@
 # Terms of Use
 
-Welcome to the App. These Terms of Use (the "Terms") constitute a legal agreement between you and the developer ("we", "us", or "our") regarding the download, installation, and use of this App. Please read these Terms carefully and fully understand them before using the App.
+Welcome to "Alter Convert" (hereinafter referred to as the "App"). These Terms of Use (the "Terms") constitute a legal agreement between you and the developer ("we", "us", or "our") regarding the download, installation, and use of this App. Please read these Terms carefully and fully understand them before using the App.
 
 ## Acceptance of Terms
 By downloading or using the App, you agree to be bound by these Terms of Use, all applicable laws and regulations, and you acknowledge that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, do not download or use the App.
@@ -30,6 +30,7 @@ You are fully responsible for any content you distribute, share, or transmit aft
 
 ## Third-Party Services
 The App integrates third-party services, including but not limited to:
+- [AdMob](https://developers.google.com/admob/terms)
 - [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
 - [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
@@ -62,4 +63,4 @@ If the App offers in-app purchase features (including auto-renewable subscriptio
 We may revise these Terms from time to time. The revised Terms will be posted on this page and become effective upon posting. We encourage you to periodically review this page for the latest information. Your continued use of the App after any changes to the Terms constitutes your acceptance of the revised Terms.
 
 ## Contact Us
-If you have any questions, suggestions, or need to report issues regarding these Terms, please contact us at: ""
+If you have any questions, suggestions, or need to report issues regarding these Terms, please contact us at: "alterconvert@gmail.com"

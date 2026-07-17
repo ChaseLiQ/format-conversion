@@ -1,8 +1,8 @@
 # Privacy Policy
 
-"" (the "App") is a free app built by "". This Service is provided at no cost and is intended for use as is.
+"Alter Convert" (the "App") is a free app built by "Chase". This Service is provided at no cost and is intended for use as is.
 
-This page is used to inform you regarding our policies and practices of third-party service providers with the collection, use, and disclosure of information when you decide to use our Service. Please read this Privacy Policy carefully before using the App to fully understand how we handle your information.
+This page is used to inform you regarding our policies and practices regarding the collection, use, and disclosure of information by us and third-party service providers when you decide to use our Service. Please read this Privacy Policy carefully before using the App to fully understand how we handle your information.
 
 By downloading, using the App, or continuing to use our Service, you acknowledge that you have read and agree to all terms of this Privacy Policy.
 
@@ -16,12 +16,13 @@ The App is free and does not require registration to access all core features. Y
 We strictly do NOT collect any personal data. Our definition of "personal data" is information that relates to an individual and could be used to identify them. In particular, we do not collect, record, or store any facial data, and therefore will never share such information with any third parties. There is no mechanism for sharing personal information or user content within the App.
 
 ### Device Information
-To continuously improve your experience, while using our Service, we may require you to provide certain device-level information, including but not limited to the Identifier for Advertising (IDFA). Please note that this information is retained locally on your device only, and we do not collect, store, or upload it to any server in any way.
+We use third-party services (such as AdMob and Firebase) that may collect your device's Identifier for Advertising (IDFA) for advertising and analytics purposes, as governed by their own privacy policies. We (the developer) do not directly collect, store, or handle this information ourselves.
 
 ### Third-Party Information Collection
 The App integrates third-party services that may use their own tracking technologies to collect information that can identify your device or usage behavior. Please note that the information collection practices of such third parties are governed by their respective privacy policies, and we have no control over their specific practices.
 
 Third-party services used by the App and links to their privacy policies:
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 - [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 - [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
@@ -36,11 +37,11 @@ The App requests the following permissions only when you perform active operatio
 **Special Note**: The App does not scan or read your photo library in the background. All file selections are initiated by you manually.
 
 ## Data Storage and Security
-- **Local Processing**: All file processing (including reading, conversion, and saving) is completed locally on your device. We do not operate any cloud servers. Your file contents will not be uploaded, shared, transmitted, or backed up to any external network or third party.
+- **Local Processing**: All file processing (including reading, conversion, and saving) is completed locally on your device. We do not operate any cloud servers. Your media file contents will not be uploaded, shared, transmitted, or backed up to any external network or third party.
 - **Data Retention**: Since all data is processed locally, we cannot access or retain any of your files. After the App is closed, all temporary data will be cleared, except for the conversion results you actively save.
 
 ## Permission and File Management
-You may withdraw the storage authorization granted to the App at any time via your device's "Settings" > "Privacy" > "Permission Management." After withdrawal, file selection and saving functions will not work, but other parts of the App will remain unaffected.
+You may withdraw the Photo Library authorization granted to the App at any time via your device's "Settings" > "Privacy" > "Permission Management." After withdrawal, file selection and saving functions will not work, but other parts of the App will remain unaffected.
 
 All files you choose to process (including original files and conversion results) are entirely under your control. You can view, move, or delete them at any time through your device's file manager.
 
@@ -67,4 +68,4 @@ We may update our Privacy Policy from time to time. If we make material changes 
 This policy is effective as of July 3, 2026.
 
 ## Contact Us
-If you have any questions or suggestions about my Privacy Policy, please do not hesitate to contact me at "".
+If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us at "alterconvert@gmail.com".
