@@ -68,4 +68,4 @@ We may update our Privacy Policy from time to time. If we make material changes 
 This policy is effective as of July 3, 2026.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us at "alterconvert@gmail.com".
+If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us at "AlterConvert@outlook.com".

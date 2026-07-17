@@ -63,4 +63,4 @@ If the App offers in-app purchase features (including auto-renewable subscriptio
 We may revise these Terms from time to time. The revised Terms will be posted on this page and become effective upon posting. We encourage you to periodically review this page for the latest information. Your continued use of the App after any changes to the Terms constitutes your acceptance of the revised Terms.
 
 ## Contact Us
-If you have any questions, suggestions, or need to report issues regarding these Terms, please contact us at: "alterconvert@gmail.com"
+If you have any questions, suggestions, or need to report issues regarding these Terms, please contact us at: "AlterConvert@outlook.com"
