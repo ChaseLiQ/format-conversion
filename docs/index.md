@@ -1,3 +1,2 @@
 - [Privacy Policy](/privacy-policy.md)
 - [Terms of Use](/terms.md)
-- [app-ads.txt](/app-ads.txt)
